@@ -3,6 +3,7 @@
 ; i was #High af when i wrot this script , just some nekfeu :D !
 ; greet's to all aliens
 ;
+#RequireAdmin     ; YOU MUST HAVE ADMINISTRATOR RIGHTS :)
 #NoTrayIcon
 #include <GUIConstantsEx.au3>
 #include <ButtonConstants.au3>
